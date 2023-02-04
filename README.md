@@ -46,7 +46,7 @@
 
 # 📖 hello-rails-back-end <a name="about-project"></a>
 
-This **hello-rails-backend App** allows for a connection between a Ruby on Rails back-end and React front-end.
+This **hello-rails-backend App** allows for a connection between a Ruby on Rails back-end and React front-end app.
 
 ## 📹 Video <a name="video"></a>
 
