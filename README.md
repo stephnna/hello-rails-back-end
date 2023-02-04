@@ -46,7 +46,9 @@
 
 # 📖 hello-rails-back-end <a name="about-project"></a>
 
-This **hello-rails-backend App** allows for a connection between a Ruby on Rails back-end and React front-end app.
+
+This **hello-rails-backend App** allows for a connection between a Ruby on Rails back-end and React front-end.
+Here is a link to the front-end App https://github.com/stephnna/hello-react-front-end/pull/2
 
 ## 📹 Video <a name="video"></a>
 
